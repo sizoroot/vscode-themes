@@ -1,0 +1,42 @@
+{
+  "name": "ovni-dark",
+  "displayName": "OVNI Dark",
+  "version": "1.0.3",
+  "publisher": "CODEOVNI",
+  "description": "Minimalist theme for lovers of pastel colors.",
+  "author": {
+    "name": "Lucas O. S."
+  },
+  "categories": ["Themes"],
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "OVNI Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OVNI Dark-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "codeovni",
+    "code ovni",
+    "ovniroto theme",
+    "ovni theme",
+    "ovni dark theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/ovniroto/vscode-themes/issues",
+    "email": "ovniroto@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ovniroto/vscode-themes.git"
+  },
+  "homepage": "https://github.com/ovniroto/vscode-themes/blob/main/ovni-dark/README.md"
+}

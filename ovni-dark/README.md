@@ -2,7 +2,7 @@
 
 # OVNI Dark
 
-Minimalist theme for lovers of pastel colors, and the most pleasant way to develop.
+Minimalist theme for developers who want a chiller code with pastel colors.
 
 ## Color Pallette
 

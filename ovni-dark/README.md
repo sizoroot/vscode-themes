@@ -48,4 +48,4 @@ Minimalist theme for developers who want a chiller code with pastel colors.
 
 ## Credits
 
-Theme created by [@ovniroto](https://twitter.com/ovniroto)
+Theme created by [@sizo.dev](https://bsky.app/profile/sizo.dev)

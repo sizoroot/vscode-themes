@@ -2,6 +2,9 @@
 
 All notable changes to the "ovni-dark" theme will be documented in this file.
 
+### 1.0.5
+- Fixed few colors
+
 ### 1.0.4
 - Changed syntax color for better code visibility
 - Changed git decoration color for modified resources

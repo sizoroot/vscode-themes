@@ -1,0 +1,42 @@
+{
+  "name": "sizo-purple",
+  "displayName": "Sizo Purple",
+  "version": "1.0.0",
+  "publisher": "Sizo",
+  "description": "Minimalist dark theme with purple tones.",
+  "author": {
+    "name": "Lucas O. S."
+  },
+  "categories": ["Themes"],
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sizo Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SizoPurple.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "purple",
+    "dark theme",
+    "sizo",
+    "sizo theme",
+    "sizo purple theme",
+    "sizo purple dark theme"
+  ],
+  "bugs": {
+    "url": "https://github.com/sizoroot/vscode-themes/issues",
+    "email": "sizoroot@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sizoroot/vscode-themes.git"
+  },
+  "homepage": "https://github.com/sizoroot/vscode-themes/blob/main/sizo-purple/README.md"
+}

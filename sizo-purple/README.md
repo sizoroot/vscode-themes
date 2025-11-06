@@ -1,5 +1,3 @@
-<img src="https://i.imgur.com/VzGn7AD.png" />
-
 # Sizo Purple Taste
 
 Minimalist dark theme with purple tones.

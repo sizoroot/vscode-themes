@@ -1,4 +1,4 @@
-# Sizo Purple Taste
+# Sizo Purple
 
 Minimalist dark theme with purple tones.
 
